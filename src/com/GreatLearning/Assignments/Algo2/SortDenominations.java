@@ -4,7 +4,7 @@
 package com.GreatLearning.Assignments.Algo2;
 
 /**
- * @author Neeraj Tiwari
+ * @author rachitkumarrastogi
  *
  */
 public class SortDenominations {

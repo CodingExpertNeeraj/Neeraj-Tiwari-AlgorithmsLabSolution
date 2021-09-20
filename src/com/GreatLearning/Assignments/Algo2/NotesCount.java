@@ -5,7 +5,7 @@ package com.GreatLearning.Assignments.Algo2;
 import java.util.Scanner;
 
 /**
- * @author Neeraj Tiwari
+ * @author rachitkumarrastogi
  *
  */
 public class NotesCount {
