@@ -1,1 +1,2 @@
-# Neeraj-Tiwari-AlgorithmsLabSolution
+# RachitKumarRastogi-AlgorithmsLabSolution
+Algorithms Lab Solutions
